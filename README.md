@@ -35,7 +35,7 @@ Spatial differences may impact accessibility for residents
 
 Links:
 
-StoryMap: [https://storymaps.arcgis.com/stories/6849c474b1cf4e82976e91304025db29]
+StoryMap:[View Interactive StoryMap](https://storymaps.arcgis.com/stories/6849c474b1cf4e82976e91304025db29)
 
 Web Map: [https://arcg.is/iOvHb1]
 
