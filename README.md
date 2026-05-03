@@ -37,6 +37,6 @@ Links:
 
 [StoryMap](https://storymaps.arcgis.com/stories/6849c474b1cf4e82976e91304025db29)
 
-[Web Map][https://arcg.is/iOvHb1]
+[Web Map](https://arcg.is/iOvHb1)
 
-[Experience Builder App][https://experience.arcgis.com/experience/743a01fadb234002907d1c07b41018e0]
+[Experience Builder App](https://experience.arcgis.com/experience/743a01fadb234002907d1c07b41018e0)
